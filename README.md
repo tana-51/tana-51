@@ -1,4 +1,4 @@
-# Hi, I'm Koichi Tanaka 👋
+# Koichi Tanaka
 
 I'm a Master's student in **Electrical and Computer Engineering at Keio University, Japan**.
 
