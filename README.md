@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Koichi Tanaka 👋
 
-<!--
-**tana-51/tana-51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in **Electrical and Computer Engineering at Keio University, Japan**.
 
-Here are some ideas to get you started:
+My research focuses on **machine learning for decision-making**, particularly:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Off-Policy Evaluation & Learning
+* Recommender Systems & Ranking
+* Counterfactual Learning
+
+I'm interested in developing reliable methods for **learning and evaluating decision-making policies from logged data**, with applications to recommender systems, ranking, and online platforms.
+
+## 🔗 Links
+
+* 🏠 [Homepage](https://tana-51.github.io)
+* 🎓 [Google Scholar](https://scholar.google.com/citations?user=QfgmitcAAAAJ)
+* 📄 [CV](https://tana-51.github.io/assets/cv/Koichi_Tanaka_CV.pdf)
+* 📧 kouichi_1207 [at] keio.jp
