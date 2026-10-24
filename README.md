@@ -1,6 +1,6 @@
 # Koichi Tanaka
 
-I'm a Master's student in **Electrical and Computer Engineering at Keio University, Japan**.
+I'm a master's student in the **Department of Electronics and Electrical Engineering at Keio University, Japan**.
 
 My research focuses on **machine learning for decision-making**, particularly:
 
